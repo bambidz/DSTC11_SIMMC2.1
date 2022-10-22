@@ -1,0 +1,1494 @@
+{
+    "0": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "1": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "2": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "3": {
+        "color": "white",
+        "type": "Sofa"
+    },
+    "4": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "5": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "6": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "7": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "8": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "9": {
+        "color": "grey",
+        "type": "CouchChair"
+    },
+    "10": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "11": {
+        "color": "brown",
+        "type": "Table"
+    },
+    "12": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "13": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "14": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "15": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "16": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "17": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "18": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "19": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "20": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "21": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "22": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "23": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "24": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "25": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "26": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "27": {
+        "color": "blue",
+        "type": "CouchChair"
+    },
+    "28": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "29": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "30": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "31": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "32": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "33": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "34": {
+        "color": "blue",
+        "type": "CouchChair"
+    },
+    "35": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "36": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "37": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "38": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "39": {
+        "color": "brown",
+        "type": "Table"
+    },
+    "40": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "41": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "42": {
+        "color": "grey",
+        "type": "CouchChair"
+    },
+    "43": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "44": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "45": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "46": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "47": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "48": {
+        "color": "red",
+        "type": "AreaRug"
+    },
+    "49": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "50": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "51": {
+        "color": "grey",
+        "type": "CouchChair"
+    },
+    "52": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "53": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "54": {
+        "color": "brown",
+        "type": "Table"
+    },
+    "55": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "56": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "57": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "58": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "59": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "60": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "61": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "62": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "63": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "64": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "65": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "66": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "67": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "68": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "69": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "70": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "71": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "72": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "73": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "74": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "75": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "76": {
+        "color": "brown",
+        "type": "Sofa"
+    },
+    "77": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "78": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "79": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "80": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "81": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "82": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "83": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "84": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "85": {
+        "color": "brown",
+        "type": "Table"
+    },
+    "86": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "87": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "88": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "89": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "90": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "91": {
+        "color": "brown",
+        "type": "Sofa"
+    },
+    "92": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "93": {
+        "color": "blue",
+        "type": "CouchChair"
+    },
+    "94": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "95": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "96": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "97": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "98": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "99": {
+        "color": "grey",
+        "type": "CoffeeTable"
+    },
+    "100": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "101": {
+        "color": "grey",
+        "type": "CoffeeTable"
+    },
+    "102": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "103": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "104": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "105": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "106": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "107": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "108": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "109": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "110": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "111": {
+        "color": "red",
+        "type": "AreaRug"
+    },
+    "112": {
+        "color": "black",
+        "type": "Chair"
+    },
+    "113": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "114": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "115": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "116": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "117": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "118": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "119": {
+        "color": "blue",
+        "type": "CouchChair"
+    },
+    "120": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "121": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "122": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "123": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "124": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "125": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "126": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "127": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "128": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "129": {
+        "color": "white",
+        "type": "Sofa"
+    },
+    "130": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "131": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "132": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "133": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "134": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "135": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "136": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "137": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "138": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "139": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "140": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "141": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "142": {
+        "color": "grey",
+        "type": "Table"
+    },
+    "143": {
+        "color": "black and white",
+        "type": "Chair"
+    },
+    "144": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "145": {
+        "color": "brown",
+        "type": "Table"
+    },
+    "146": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "147": {
+        "color": "brown",
+        "type": "Sofa"
+    },
+    "148": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "149": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "150": {
+        "color": "grey",
+        "type": "Table"
+    },
+    "151": {
+        "color": "black and white",
+        "type": "Chair"
+    },
+    "152": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "153": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "154": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "155": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "156": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "157": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "158": {
+        "color": "grey",
+        "type": "CouchChair"
+    },
+    "159": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "160": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "161": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "162": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "163": {
+        "color": "brown",
+        "type": "Table"
+    },
+    "164": {
+        "color": "black",
+        "type": "Chair"
+    },
+    "165": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "166": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "167": {
+        "color": "red",
+        "type": "AreaRug"
+    },
+    "168": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "169": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "170": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "171": {
+        "color": "red",
+        "type": "AreaRug"
+    },
+    "172": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "173": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "174": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "175": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "176": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "177": {
+        "color": "brown",
+        "type": "Table"
+    },
+    "178": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "179": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "180": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "181": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "182": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "183": {
+        "color": "black and white",
+        "type": "Chair"
+    },
+    "184": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "185": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "186": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "187": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "188": {
+        "color": "black",
+        "type": "Chair"
+    },
+    "189": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "190": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "191": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "192": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "193": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "194": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "195": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "196": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "197": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "198": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "199": {
+        "color": "grey",
+        "type": "CoffeeTable"
+    },
+    "200": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "201": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "202": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "203": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "204": {
+        "color": "black",
+        "type": "Chair"
+    },
+    "205": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "206": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "207": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "208": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "209": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "210": {
+        "color": "grey",
+        "type": "CoffeeTable"
+    },
+    "211": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "212": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "213": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "214": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "215": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "216": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "217": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "218": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "219": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "220": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "221": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "222": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "223": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "224": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "225": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "226": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "227": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "228": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "229": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "230": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "231": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "232": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "233": {
+        "color": "grey",
+        "type": "CouchChair"
+    },
+    "234": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "235": {
+        "color": "red",
+        "type": "AreaRug"
+    },
+    "236": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "237": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "238": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "239": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "240": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "241": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "242": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "243": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "244": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "245": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "246": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "247": {
+        "color": "red",
+        "type": "AreaRug"
+    },
+    "248": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "249": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "250": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "251": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "252": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "253": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "254": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "255": {
+        "color": "grey",
+        "type": "CouchChair"
+    },
+    "256": {
+        "color": "brown",
+        "type": "Table"
+    },
+    "257": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "258": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "259": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "260": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "261": {
+        "color": "grey",
+        "type": "CouchChair"
+    },
+    "262": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "263": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "264": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "265": {
+        "color": "wooden",
+        "type": "CoffeeTable"
+    },
+    "266": {
+        "color": "red",
+        "type": "Sofa"
+    },
+    "267": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "268": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "269": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "270": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "271": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "272": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "273": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "274": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "275": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "276": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "277": {
+        "color": "blue",
+        "type": "CouchChair"
+    },
+    "278": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "279": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "280": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "281": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "282": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "283": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "284": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "285": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "286": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "287": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "288": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "289": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "290": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "291": {
+        "color": "brown",
+        "type": "CouchChair"
+    },
+    "292": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "293": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "294": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "295": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "296": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "297": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "298": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "299": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "300": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "301": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "302": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "303": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "304": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "305": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "306": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "307": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "308": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "309": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "310": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "311": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "312": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "313": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "314": {
+        "color": "red",
+        "type": "AreaRug"
+    },
+    "315": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "316": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "317": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "318": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "319": {
+        "color": "brown",
+        "type": "CoffeeTable"
+    },
+    "320": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "321": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "322": {
+        "color": "grey",
+        "type": "CoffeeTable"
+    },
+    "323": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "324": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "325": {
+        "color": "white",
+        "type": "Chair"
+    },
+    "326": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "327": {
+        "color": "brown",
+        "type": "Chair"
+    },
+    "328": {
+        "color": "grey",
+        "type": "Table"
+    },
+    "329": {
+        "color": "black and white",
+        "type": "Chair"
+    },
+    "330": {
+        "color": "grey",
+        "type": "Bed"
+    },
+    "331": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "332": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "333": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "334": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "335": {
+        "color": "wooden",
+        "type": "Table"
+    },
+    "336": {
+        "color": "black",
+        "type": "Chair"
+    },
+    "337": {
+        "color": "wooden",
+        "type": "Shelves"
+    },
+    "338": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "339": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "340": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "341": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "342": {
+        "color": "grey",
+        "type": "CouchChair"
+    },
+    "343": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "344": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "345": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "346": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "347": {
+        "color": "grey",
+        "type": "CoffeeTable"
+    },
+    "348": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "349": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "350": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "351": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "352": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "353": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "354": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "355": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "356": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "357": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "358": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "359": {
+        "color": "blue",
+        "type": "AreaRug"
+    },
+    "360": {
+        "color": "red",
+        "type": "Sofa"
+    },
+    "361": {
+        "color": "white",
+        "type": "AreaRug"
+    },
+    "362": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "363": {
+        "color": "white",
+        "type": "EndTable"
+    },
+    "364": {
+        "color": "grey",
+        "type": "Sofa"
+    },
+    "365": {
+        "color": "wooden",
+        "type": "EndTable"
+    },
+    "366": {
+        "color": "green",
+        "type": "Chair"
+    },
+    "367": {
+        "color": "white",
+        "type": "Lamp"
+    },
+    "368": {
+        "color": "black",
+        "type": "EndTable"
+    },
+    "369": {
+        "color": "grey",
+        "type": "AreaRug"
+    },
+    "370": {
+        "color": "red",
+        "type": "Sofa"
+    },
+    "371": {
+        "color": "white",
+        "type": "CouchChair"
+    },
+    "372": {
+        "color": "white",
+        "type": "AreaRug"
+    }
+}
