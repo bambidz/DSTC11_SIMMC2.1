@@ -1,6 +1,6 @@
 ## Subtask1
 
-We use ALBEF as the backbone for subtask2
+We use ALBEF as the backbone for subtask1
 
 For the sake of compatability we left most original files untouched
 The simmc dataset inside the the "data_simmc" directory, and is preprocessed within it.
