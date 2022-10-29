@@ -7,11 +7,15 @@ import torchvision.transforms as T
 from tqdm import tqdm
 from torch import nn, optim
 from PIL import Image
+import timm
 from torchvision import models
 from torch.optim import lr_scheduler
 from torchvision.io import read_image
 from torchvision.datasets import ImageFolder
 from torch.utils.data import DataLoader, Dataset
+
+
+
 
 SEED = 42
 np.random.seed(SEED)
@@ -25,15 +29,12 @@ std_nums = [0.207, 0.200, 0.204] # [0.229, 0.224, 0.225] -> [0.207, 0.200, 0.204
 
 train_transform = T.Compose([
   T.ToTensor(),
-  T.RandomResizedCrop(size=[256,256]),
-  T.RandomRotation(degrees=15),
-  T.RandomHorizontalFlip(),
+  T.Resize(size=[256,256]),
   T.Normalize(mean_nums, std_nums)
 ])
 test_transform = T.Compose([
   T.ToTensor(),
   T.Resize(size=[256,256]),
-  T.CenterCrop(size=256),
   T.Normalize(mean_nums, std_nums)
 ])
 
@@ -57,7 +58,8 @@ test_loader = DataLoader(test_dataset, batch_size = 16, shuffle=False)
 dataset_sizes = {"train": len(train_dataset), "test": len(test_dataset)}
 data_loaders = {"train": train_loader, "test": test_loader}
 
-model = models.resnext101_32x8d(pretrained=True)
+
+model = models.resnext101_32x8d(weights='IMAGENET1K_V2')
 n_features = model.fc.in_features
 model.fc = nn.Linear(n_features, len(os.listdir("./data/fashion/251_class_train")))
 model.to(device)
@@ -96,7 +98,7 @@ def train_epoch(
 
     pbar.set_postfix({'train_loss':np.mean(losses)})
 
-  #scheduler.step()
+  scheduler.step()
 
   return correct_predictions.double() / n_examples, np.mean(losses)
 
@@ -154,8 +156,8 @@ def eval_model(model, data_loader, loss_fn, device, n_examples):
 
 
 def train_model(model, data_loaders, dataset_sizes, device, n_epochs=3):
-  #optimizer = optim.SGD(model.parameters(), lr=0.001, momentum=0.9)
-  optimizer = optim.Adam(model.parameters(), lr=0.0001)
+  optimizer = optim.SGD(model.parameters(), lr=0.001, momentum=0.9)
+  #optimizer = optim.Adam(model.parameters(), lr=0.0001)
   scheduler = lr_scheduler.StepLR(optimizer, step_size=7, gamma=0.1)
   loss_fn = nn.CrossEntropyLoss()
 
@@ -192,13 +194,13 @@ def train_model(model, data_loaders, dataset_sizes, device, n_epochs=3):
 
 
     if val_acc_o + (val_acc_c + val_acc_t + val_acc_p)/3 > best_accuracy:
-      torch.save(model.state_dict(), 'object_model_state.bin')
+      torch.save(model.state_dict(), './parameters/object_model_state_fashion.bin')
       best_accuracy = val_acc_o + (val_acc_c + val_acc_t + val_acc_p)/3
       best_o, best_c, best_t, best_p = val_acc_o, val_acc_c, val_acc_t, val_acc_p
 
   print(f'Best val accuracy: {best_o} {best_c} {best_t} {best_p}')
   
-  model.load_state_dict(torch.load('object_model_state.bin'))
+  model.load_state_dict(torch.load('./parameters/object_model_state_fashion.bin'))
   
   return model
 

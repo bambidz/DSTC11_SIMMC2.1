@@ -25,15 +25,12 @@ std_nums = [0.297, 0.287, 0.274] # [0.229, 0.224, 0.225] -> [0.297, 0.287, 0.274
 
 train_transform = T.Compose([
   T.ToTensor(),
-  T.RandomResizedCrop(size=[256,256]),
-  T.RandomRotation(degrees=15),
-  T.RandomHorizontalFlip(),
+  T.Resize(size=[256,256]),
   T.Normalize(mean_nums, std_nums)
 ])
 test_transform = T.Compose([
   T.ToTensor(),
   T.Resize(size=[256,256]),
-  T.CenterCrop(size=256),
   T.Normalize(mean_nums, std_nums)
 ])
 
@@ -41,15 +38,6 @@ train_dataset = ImageFolder(root='./data/furniture/251_class_train', transform=t
 test_dataset = ImageFolder(root='./data/furniture/251_class_test', transform=test_transform)
 
 object_class_name = train_dataset.classes
-
-# with open("./furniture_attr_idx.json") as f:
-#  attr_idx = json.load(f)
-  
-# with open("./furniture_object_attr.json") as f:
-#   object_attr = json.load(f)
-  
-# n_c = len(attr_idx["color2idx"])
-# n_t = len(attr_idx["type2idx"])
 
 train_loader = DataLoader(train_dataset, batch_size = 16, shuffle=True)
 test_loader = DataLoader(test_dataset, batch_size = 16, shuffle=False)
@@ -163,12 +151,12 @@ def train_model(model, data_loaders, dataset_sizes, device, n_epochs=3):
 
 
     if val_acc > best_accuracy:
-      torch.save(model.state_dict(), 'furniture_best_model_state.bin')
+      torch.save(model.state_dict(), './parameters/object_model_state_funiture.bin')
       best_accuracy = val_acc
 
   print(f'Best val accuracy: {best_accuracy}')
   
-  model.load_state_dict(torch.load('furniture_best_model_state.bin'))
+  model.load_state_dict(torch.load('./parameters/object_model_state_funiture.bin'))
   
   return model
 
